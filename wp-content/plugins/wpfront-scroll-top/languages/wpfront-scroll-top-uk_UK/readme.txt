@@ -1,1 +1,0 @@
-Contributor: Ivanka Skakun <coupofy.com>
