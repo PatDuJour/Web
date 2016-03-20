@@ -368,6 +368,7 @@ input[type="submit"] {
 
 	.support-business-card-wrapper {
 		width: 100%;
+		min-height: 0;
 	}
 
 	.support-business-card {
