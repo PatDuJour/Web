@@ -366,6 +366,9 @@ input[type="submit"] {
 		clear: left;
 	}
 
+	.support-business-card-wrapper {
+		width: 100%;
+	}
 
 	.support-business-card {
 		margin: 10px auto;
